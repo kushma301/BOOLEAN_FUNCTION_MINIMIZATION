@@ -54,13 +54,11 @@ Developed by: KUSHMA.S RegisterNumber: 24013666
 
 **RTL**
 
-![Screenshot 2024-12-02 182728](https://github.com/user-attachments/assets/4fd4cdf6-178d-4ad9-b03b-31a3a37c28ba)
-
+![exp2 diagram](https://github.com/user-attachments/assets/98fcb30c-d52c-4198-a5e5-b7b4150e3503)
 
 **Timing Diagram**
 
-![Screenshot 2024-12-02 183157](https://github.com/user-attachments/assets/0a9528a3-5947-4006-a731-33cc1d68fb65)
-
+![exp2 timing diagram](https://github.com/user-attachments/assets/8a190537-bb9e-4365-b0c6-ed0e945335c4)
 
 **Result:**
 
